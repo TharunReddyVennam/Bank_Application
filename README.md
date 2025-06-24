@@ -1,4 +1,4 @@
-# 🏦 Simple Banking Web Application
+# Banking Application
 
 ## 📌 Objective
 
