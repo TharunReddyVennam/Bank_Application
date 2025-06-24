@@ -65,9 +65,6 @@ It is ideal for educational purposes, showcasing CRUD operations with a relation
 # Using Docker CLI
 docker build -t banking-app .
 docker run -p 5005:5005 banking-app
-
-# OR using docker-compose
-docker-compose up --build
 ```
 
 #### 2. Access the App
